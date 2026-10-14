@@ -1,0 +1,10 @@
+{
+  "uuid": "agy-usage@o-fgungor.github.io",
+  "name": "Antigravity Usage Monitor",
+  "description": "Shows the Antigravity quota windows reported for your account in the GNOME top bar. Reads your existing Antigravity CLI credentials. Unofficial community extension based on ClaudeCodeUsage.",
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/o-fgungor/antigravity-usage",
+  "settings-schema": "org.gnome.shell.extensions.agy-usage",
+  "version": 1,
+  "version-name": "1.0.0"
+}
